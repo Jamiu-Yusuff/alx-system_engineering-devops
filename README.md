@@ -1,2 +1,3 @@
 shellreadme
 basicreadme
+Permissions
